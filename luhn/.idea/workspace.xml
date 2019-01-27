@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b6712b-c83b-4d52-a41f-114b7e2052bb" name="Default" comment="" />
+    <list default="true" id="0f2c46e5-5e49-44c3-bb7b-e54c0fd38d5e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,36 +17,34 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IsbnVerifierTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+      <file leaf-file-name="LuhnValidator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
-              <folding>
-                <element signature="e#2198#2199#0" expanded="true" />
-                <element signature="e#2261#2262#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsbnVerifier.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+      <file leaf-file-name="LuhnValidatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="132">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>@Ignore(&quot;Remove to run test&quot;)</find>
-    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -64,14 +62,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="isbn-verifier" />
+              <option name="name" value="luhn" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="isbn-verifier" />
+                <option name="name" value="luhn" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -85,7 +83,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'isbn-verifier'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'luhn'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -99,7 +97,7 @@
                 <option name="name" value="cleanEclipseClasspath" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'isbn-verifier'." />
+                <option name="description" value="Displays the sub-projects of root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -114,12 +112,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'isbn-verifier'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'luhn'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'isbn-verifier'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -153,7 +151,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'isbn-verifier'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'luhn'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -163,7 +161,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'isbn-verifier'." />
+                <option name="description" value="Displays the tasks runnable from root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -187,7 +185,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'isbn-verifier'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -212,7 +210,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'isbn-verifier'." />
+                <option name="description" value="Displays all dependencies declared in root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -252,7 +250,7 @@
                 <option name="name" value="eclipseProject" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'isbn-verifier'." />
+                <option name="description" value="Displays the properties of root project 'luhn'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -263,7 +261,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3095289712049" />
+        <entry key="$PROJECT_DIR$" value="3096211789686" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3260766417" />
       </map>
@@ -284,7 +282,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="isbn-verifier" />
+              <option name="name" value="luhn" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
@@ -379,8 +377,9 @@
         <entry key="$PROJECT_DIR$/../dnd-character" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../gigasecond" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../hamming" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../isbn-verifier" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../isogram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../pangram" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../pig-latin" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../protein-translation" value="PREVIEW" />
@@ -396,10 +395,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IsbnVerifier.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LuhnValidator.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -412,43 +417,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="isbn-verifier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isbn-verifier" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -457,10 +460,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../largest-series-product" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -474,34 +479,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsbnVerifierTest">
+  <component name="RunManager" selected="JUnit.LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="IsbnVerifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="isbn-verifier_test" />
+    <configuration name="LuhnValidatorTest.testInvalidCanadianSINInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luhn_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="IsbnVerifierTest.inputIsNineCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="isbn-verifier_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" value="inputIsNineCharacters" />
+      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
+      <option name="METHOD_NAME" value="testInvalidCanadianSINInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -512,13 +500,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsbnVerifierTest.inputIsTooLongButContainsAValidIsbn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="isbn-verifier_test" />
+    <configuration name="LuhnValidatorTest.testInvalidCreditCardInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luhn_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" value="inputIsTooLongButContainsAValidIsbn" />
+      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
+      <option name="METHOD_NAME" value="testInvalidCreditCardInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -529,13 +517,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsbnVerifierTest.invalidCharactersAreNotIgnored" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="isbn-verifier_test" />
+    <configuration name="LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luhn_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" value="invalidCharactersAreNotIgnored" />
+      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
+      <option name="METHOD_NAME" value="testSimpleValidSINReversedBecomesInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -546,13 +534,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsbnVerifierTest.isbnWithoutCheckDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="isbn-verifier_test" />
+    <configuration name="LuhnValidatorTest.testSimpleValidSINReversedRemainsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luhn_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsbnVerifierTest" />
-      <option name="METHOD_NAME" value="isbnWithoutCheckDigit" />
+      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
+      <option name="METHOD_NAME" value="testSimpleValidSINReversedRemainsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LuhnValidatorTest.testValidCanadianSINValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luhn_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
+      <option name="METHOD_NAME" value="testValidCanadianSINValid" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -602,19 +607,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.IsbnVerifierTest.inputIsNineCharacters" />
-      <item itemvalue="JUnit.IsbnVerifierTest.invalidCharactersAreNotIgnored" />
-      <item itemvalue="JUnit.IsbnVerifierTest.inputIsTooLongButContainsAValidIsbn" />
-      <item itemvalue="JUnit.IsbnVerifierTest" />
-      <item itemvalue="JUnit.IsbnVerifierTest.isbnWithoutCheckDigit" />
+      <item itemvalue="JUnit.LuhnValidatorTest.testSimpleValidSINReversedRemainsValid" />
+      <item itemvalue="JUnit.LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid" />
+      <item itemvalue="JUnit.LuhnValidatorTest.testValidCanadianSINValid" />
+      <item itemvalue="JUnit.LuhnValidatorTest.testInvalidCanadianSINInvalid" />
+      <item itemvalue="JUnit.LuhnValidatorTest.testInvalidCreditCardInvalid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsbnVerifierTest" />
-        <item itemvalue="JUnit.IsbnVerifierTest.isbnWithoutCheckDigit" />
-        <item itemvalue="JUnit.IsbnVerifierTest.inputIsNineCharacters" />
-        <item itemvalue="JUnit.IsbnVerifierTest.inputIsTooLongButContainsAValidIsbn" />
-        <item itemvalue="JUnit.IsbnVerifierTest.invalidCharactersAreNotIgnored" />
+        <item itemvalue="JUnit.LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid" />
+        <item itemvalue="JUnit.LuhnValidatorTest.testSimpleValidSINReversedRemainsValid" />
+        <item itemvalue="JUnit.LuhnValidatorTest.testValidCanadianSINValid" />
+        <item itemvalue="JUnit.LuhnValidatorTest.testInvalidCanadianSINInvalid" />
+        <item itemvalue="JUnit.LuhnValidatorTest.testInvalidCreditCardInvalid" />
       </list>
     </recent_temporary>
   </component>
@@ -623,57 +628,58 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97b6712b-c83b-4d52-a41f-114b7e2052bb" name="Default" comment="" />
-      <created>1547644877267</created>
+      <changelist id="0f2c46e5-5e49-44c3-bb7b-e54c0fd38d5e" name="Default" comment="" />
+      <created>1548105895585</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547644877267</updated>
+      <updated>1548105895585</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IsbnVerifierTest_inputIsNineCharacters - 2019.01.16 at 16h 36m 26s.xml">
-      <configuration name="IsbnVerifierTest.inputIsNineCharacters" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testSimpleValidSINReversedBecomesInvalid - 2019.01.25 at 21h 26m 37s.xml">
+      <configuration name="LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_invalidCharactersAreNotIgnored - 2019.01.16 at 16h 36m 56s.xml">
-      <configuration name="IsbnVerifierTest.invalidCharactersAreNotIgnored" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testValidCanadianSINValid - 2019.01.25 at 21h 27m 17s.xml">
+      <configuration name="LuhnValidatorTest.testValidCanadianSINValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_inputIsTooLongButContainsAValidIsbn - 2019.01.16 at 16h 37m 08s.xml">
-      <configuration name="IsbnVerifierTest.inputIsTooLongButContainsAValidIsbn" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testValidCanadianSINValid - 2019.01.25 at 21h 27m 24s.xml">
+      <configuration name="LuhnValidatorTest.testValidCanadianSINValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_inputIsTooLongButContainsAValidIsbn - 2019.01.16 at 16h 39m 39s.xml">
-      <configuration name="IsbnVerifierTest.inputIsTooLongButContainsAValidIsbn" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testInvalidCanadianSINInvalid - 2019.01.25 at 21h 27m 54s.xml">
+      <configuration name="LuhnValidatorTest.testInvalidCanadianSINInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_inputIsNineCharacters - 2019.01.16 at 16h 39m 43s.xml">
-      <configuration name="IsbnVerifierTest.inputIsNineCharacters" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testInvalidCreditCardInvalid - 2019.01.25 at 21h 28m 06s.xml">
+      <configuration name="LuhnValidatorTest.testInvalidCreditCardInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest - 2019.01.16 at 16h 39m 50s.xml">
-      <configuration name="IsbnVerifierTest" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testInvalidCreditCardInvalid - 2019.01.25 at 21h 29m 36s.xml">
+      <configuration name="LuhnValidatorTest.testInvalidCreditCardInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest_isbnWithoutCheckDigit - 2019.01.16 at 16h 40m 05s.xml">
-      <configuration name="IsbnVerifierTest.isbnWithoutCheckDigit" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testInvalidCanadianSINInvalid - 2019.01.25 at 21h 29m 48s.xml">
+      <configuration name="LuhnValidatorTest.testInvalidCanadianSINInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest - 2019.01.16 at 16h 41m 07s.xml">
-      <configuration name="IsbnVerifierTest" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testValidCanadianSINValid - 2019.01.25 at 21h 29m 59s.xml">
+      <configuration name="LuhnValidatorTest.testValidCanadianSINValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest - 2019.01.16 at 16h 56m 35s.xml">
-      <configuration name="IsbnVerifierTest" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testSimpleValidSINReversedRemainsValid - 2019.01.25 at 21h 30m 07s.xml">
+      <configuration name="LuhnValidatorTest.testSimpleValidSINReversedRemainsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IsbnVerifierTest - 2019.01.16 at 17h 00m 23s.xml">
-      <configuration name="IsbnVerifierTest" configurationId="JUnit" />
+    <history-entry file="LuhnValidatorTest_testSimpleValidSINReversedBecomesInvalid - 2019.01.25 at 21h 30m 13s.xml">
+      <configuration name="LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -682,129 +688,136 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989726" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32876712" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32876712" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.32876712" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="29" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>candidate.trim()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>candidate</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>areOnlyNumbers(stringToValidate)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.parseInt(candidate);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>candidate.length() &gt; 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum =+ n*2 &lt;= 9 ? n*2 : n*2 - 9</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="107" column="56" lean-forward="true" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="697">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+        <state relative-caret-position="748">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="697">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LuhnValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="87" lean-forward="true" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+        <state relative-caret-position="132">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IsbnVerifierTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LuhnValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
-          <folding>
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2261#2262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IsbnVerifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
